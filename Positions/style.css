@@ -1,0 +1,33 @@
+.flex-container{
+    background-color: antiquewhite;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    /* position: relative; */
+    height: 1000px;
+}
+
+div{
+    padding: 20px;
+    background-color: brown;
+    height: 100px;
+}
+
+.box1{
+    position: absolute;
+    /* position: fixed; */
+    /* position: sticky; */
+    top: 0;
+    right: 0;
+    background-color: aqua;
+    z-index: 2;
+}
+
+
+.flex-container div:last-child{
+    background-color: black;
+    z-index: 3;
+}
+
+.clear {
+clear: left;}
