@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+/* Only For Mobile Screen */
+@media screen and (max-width:425px) {
+    div {
+        background-color: aqua;
+    }
+}
+
+/* ONLY FOR TABLETS */
+@media screen and (min-width: 426px) and (max-width: 768px) {
+    div {
+        background-color: aquamarine;
+    }
+}
