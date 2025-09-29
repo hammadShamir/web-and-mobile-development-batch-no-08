@@ -1,0 +1,91 @@
+/* COLORS & THEMSE */
+
+:root {
+    --primary: skyBlue;
+    --secondary: blue;
+    --foreground: black;
+    --width-80: 50vw;
+}
+
+/* DEFAULT */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+
+h1 {
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 1.3rem;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+.small-img {
+    width: 200px;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.w-80 {
+    width: 80vw;
+}
+
+header {
+    background-color: var(--secondary);
+}
+
+section {
+    background-color: var(--primary)
+}
+
+#sec2>div {
+    /* margin: auto; */
+    background-color: blueviolet;
+    width: 80vw;
+}
+
+/* .para {
+    height: calc(100vh - 82px);
+} */
+
+
+#sec2 {
+    margin-top: 100px;
+}
+
+#sec2 div {
+    max-width: 600px;
+    width: auto;
+    background-color: antiquewhite;
+    min-height: 400px;
+}
+
+.last {
+    background-color: aquamarine;
+     width: var(--width-80);
+}
+
+/* MOBILE CSS */
+
+@media screen and (max-width:480px) {
+    html {
+        font-size: 12px;
+    }
+
+    .display-flex {
+        flex-direction: column;
+    }
+}
