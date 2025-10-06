@@ -4,18 +4,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Restaurant Website</title>
+    <title>Restaurant App</title>
     <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet" />
 </head>
 
 <body>
+    <header>
+        <div class="container row">
+            <div class="logo">
+                <a href="#" class="lato-bold">
+                    <span>
+                        Food
+                    </span>
+                    Wagon
+                </a>
+            </div>
+            <div class="address">
+                <p class="lato-regular">
+                    <span class="lato-bold">Deliver to:</span>
+                    <i class="ri-map-pin-2-line primary-color"></i>
+                    map-marker-alt
+                    Current Location
+                    <span class="lato-bold">Mohammadpur Bus Stand, Dhaka</span>
+                </p>
+            </div>
+            <div class="row header-buttons">
+                <div>
+                    <i class="ri-search-line primary-color"></i>
+                    <input type="search" name="" id="" placeholder="Search Food">
+                </div>
+                <button class="primary-color">
+                    <i class="ri-user-fill "></i>
+                    Login
+                </button>
+            </div>
+        </div>
+    </header>
+    <!-- HEADER END -->
+    <section id="hero-section">
+        <div class="container row">
+            <div class="content">
+                <h1 class="lato-bold">Are you starving?</h1>
+                <p class="lato-regular">Within a few clicks, find meals that are accessible near you</p>
+                <form action="" class="form">
+                    <div class="tabs-buttons">
+                        <button> <i class="ri-motorbike-fill"></i> Delivery</button>
+                        <button> <i class="ri-briefcase-fill"></i> Pickup</button>
+                    </div>
+                    <div>
+                        <div>
+                            <i class="ri-map-pin-2-line"></i>
+                            <input type="search" name="" id="" placeholder="Enter Your Address">
+                        </div>
+                        <button>
+                            <i class="ri-search-line primary-color"></i>
+                            Find Food
+                        </button>
+                    </div>
+                </form>
+            </div>
+            <div class="hero-img">
+                <img src="./assets/images/hero.png" alt="Noodle Image">
+            </div>
+        </div>
+    </section>
+    <!-- HERO SECTION END -->
+    <!-- Deal Section -->
     <section>
         <div class="container deal-grid vertical-padding">
             <div class="deal-box">
                 <div class="img-box"><!-- Image Box -->
                     <img src="./assets/images/deal-1.png" alt="">
                     <div class="percent">
-                        <span>15%</span>
+                        <div>
+                            10
+                        </div>
+                        <div class="percent-child">
+                            <span>%</span>
+                            <span>Off</span>
+                        </div>
                     </div>
                 </div>
                 <div class="deal-content">
@@ -89,6 +162,126 @@
                     <p>Choose the location where your food will be delivered.</p>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <!-- POPULAR ITEMS -->
+    <section>
+        <div class="container grid">
+            <div>
+                <div>
+                    <img src="./assets/images/deal-1.png" alt="">
+                </div>
+                <div class="content">
+                    <h2>Cheese Burger</h2>
+                    <h4>Burger Arena</h4>
+                    <h6>$3.88</h6>
+                </div>
+                <button>Order Now</button>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/images/deal-1.png" alt="">
+                </div>
+                <div class="content">
+                    <h2>Cheese Burger</h2>
+                    <h4>Burger Arena</h4>
+                    <h6>$3.88</h6>
+                </div>
+                <button>Order Now</button>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/images/deal-1.png" alt="">
+                </div>
+                <div class="content">
+                    <h2>Cheese Burger</h2>
+                    <h4>Burger Arena</h4>
+                    <h6>$3.88</h6>
+                </div>
+                <button>Order Now</button>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/images/deal-1.png" alt="">
+                </div>
+                <div class="content">
+                    <h2>Cheese Burger</h2>
+                    <h4>Burger Arena</h4>
+                    <h6>$3.88</h6>
+                </div>
+                <button>Order Now</button>
+            </div>
+            <div>
+                <div>
+                    <img src="./assets/images/deal-1.png" alt="">
+                </div>
+                <div class="content">
+                    <h2>Cheese Burger</h2>
+                    <h4>Burger Arena</h4>
+                    <h6>$3.88</h6>
+                </div>
+                <button>Order Now</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- featured section -->
+    <section class="container vertical-padding" >
+        <h1>Popular items</h1>
+        <div id="feature-section">
+            <div>
+                <div>
+                    <img src="/assets/images/deal-1.png" alt="">
+                </div>
+                <div class="card-content">
+                    <img src="./assets/images/Restaruant Logo.png" alt="">
+                    <div>
+                        <h3>FoodWorld</h3>
+                        <h4>46</h4>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="/assets/images/deal-1.png" alt="">
+                </div>
+                <div class="card-content">
+                    <img src="./assets/images/Restaruant Logo.png" alt="">
+                    <div>
+                        <h3>FoodWorld</h3>
+                        <h4>46</h4>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="/assets/images/deal-1.png" alt="">
+                </div>
+                <div class="card-content">
+                    <img src="./assets/images/Restaruant Logo.png" alt="">
+                    <div>
+                        <h3>FoodWorld</h3>
+                        <h4>46</h4>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="/assets/images/deal-1.png" alt="">
+                </div>
+                <div class="card-content">
+                    <img src="./assets/images/Restaruant Logo.png" alt="">
+                    <div>
+                        <h3>FoodWorld</h3>
+                        <h4>46</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="arrows">
+            <button class="left-arrow"><</button>
+            <button class="right-arrow">></button>
         </div>
     </section>
 </body>
