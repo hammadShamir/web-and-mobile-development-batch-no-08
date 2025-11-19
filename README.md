@@ -22,7 +22,7 @@ https://www.notion.so/Assignment-JavaScript-Operators-2a4ab6ff96f580c7971ee16953
 # Lecture Doc:
 https://www.notion.so/JavaScript-Operators-2a2ab6ff96f58012b3cde5ff4770d90f?source=copy_link
 
-# 5 -----Conditional Statements----
+# 5 -----Conditional Statements (if/else and Switch cases)----
 # Lecture Docs:
 https://www.notion.so/JavaScript-Conditional-Statements-2a7ab6ff96f580be84a2eb6df24bb15a?source=copy_link
 # Assignment:
