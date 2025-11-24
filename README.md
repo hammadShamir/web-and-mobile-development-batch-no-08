@@ -30,3 +30,6 @@ https://www.notion.so/ATM-Simulator-Mini-Project-2a7ab6ff96f580c5aaebeea45dc1287
 
 # 6 -----Loop (for/while and do while)-----
 https://www.notion.so/Loops-in-JavaScript-Iteration-2abab6ff96f580afbfdbed6d1270757d?source=copy_link
+
+# -----Functions -----
+https://www.notion.so/JavaScript-Functions-2b5ab6ff96f5800fa813d008b0caa01b?source=copy_link
