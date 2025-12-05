@@ -38,3 +38,5 @@ https://www.notion.so/JavaScript-Functions-2b5ab6ff96f5800fa813d008b0caa01b?sour
 https://www.notion.so/JavaScript-Arrays-2b7ab6ff96f5801e9cc0e2105f72058e?source=copy_link
 # Assignment
 https://www.notion.so/To-Do-List-Manager-2b7ab6ff96f580478479f9e0ac0b5519?source=copy_link
+# ----- JavaScript DOM --------
+https://www.notion.so/JavaScript-DOM-Document-Object-Model-2c0ab6ff96f5805dbb68e4162d5602da?source=copy_link
