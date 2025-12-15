@@ -40,3 +40,6 @@ https://www.notion.so/JavaScript-Arrays-2b7ab6ff96f5801e9cc0e2105f72058e?source=
 https://www.notion.so/To-Do-List-Manager-2b7ab6ff96f580478479f9e0ac0b5519?source=copy_link
 # ----- JavaScript DOM --------
 https://www.notion.so/JavaScript-DOM-Document-Object-Model-2c0ab6ff96f5805dbb68e4162d5602da?source=copy_link
+
+# ---- JavaScript Evens -------
+https://www.notion.so/JavaScript-Events-2caab6ff96f580488cd9c11275ba97f7?source=copy_link
