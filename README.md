@@ -45,3 +45,6 @@ https://www.notion.so/JavaScript-DOM-Document-Object-Model-2c0ab6ff96f5805dbb68e
 https://www.notion.so/JavaScript-Events-2caab6ff96f580488cd9c11275ba97f7?source=copy_link
 # ---Javascript Advanced Looping Method ----
 https://www.notion.so/JavaScript-Arrays-Advanced-Modern-Concepts-2beab6ff96f5801ba0affccfa2b5a85c?source=copy_link
+
+# --- Web Storage & JSON -----
+https://www.notion.so/Web-Storage-JSON-2d0ab6ff96f58027b79cf1c2382a8b0d?source=copy_link
