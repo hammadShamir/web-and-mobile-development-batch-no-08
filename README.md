@@ -48,3 +48,9 @@ https://www.notion.so/JavaScript-Arrays-Advanced-Modern-Concepts-2beab6ff96f5801
 
 # --- Web Storage & JSON -----
 https://www.notion.so/Web-Storage-JSON-2d0ab6ff96f58027b79cf1c2382a8b0d?source=copy_link
+
+# --- Callback & Promises -----
+https://www.notion.so/CallBack-Promises-2dbab6ff96f580f88537ddc8c121b509?source=copy_link
+
+# --- APIs Intro -----
+https://www.notion.so/CallBack-Promises-2dbab6ff96f580f88537ddc8c121b509?source=copy_link
