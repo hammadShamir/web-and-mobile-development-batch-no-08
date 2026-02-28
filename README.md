@@ -1,3 +1,6 @@
+## Complete Notes
+https://www.notion.so/Lectures-298ab6ff96f58005b7f4c343163410dc?source=copy_link
+
 # 1 ----Introduction----
 # Lecture Doc 
 https://www.notion.so/Introduction-to-JavaScript-298ab6ff96f580908156ebd575c9816e?source=copy_link 
